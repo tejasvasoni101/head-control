@@ -1,5 +1,5 @@
-# head-control
-stepper, servo , chatbot and cv face detection control integration
+# head-control of ROTF
+Integration of all sub systems in a single file ie.stepper, servo , chatbot and cv face detection head control.
 
 • A waiter Robot capable of autonomously traversing in the restaurant, interacting and taking orders from customers.
 
